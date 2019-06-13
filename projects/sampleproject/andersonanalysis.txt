@@ -1,0 +1,2 @@
+chmod +x andersonanalysis.txt
+wpa -ander realloc.bc

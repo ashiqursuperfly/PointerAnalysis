@@ -1,0 +1,2 @@
+chmod +x wholeprogramvfg.txt
+wpa -ander -svfg example.bc

@@ -1,0 +1,2 @@
+chmod +x converttobitcode.txt
+clang -c -emit-llvm -g realloc.c -o realloc.bc

@@ -1,0 +1,2 @@
+chmod +x flowsensitiveanalysis.txt
+wpa -fspta realloc.bc
